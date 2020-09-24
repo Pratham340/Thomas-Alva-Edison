@@ -1,0 +1,17 @@
+h1{
+  color:purple;
+  font-variant:small-caps;
+}
+#img2{
+height:150px;
+width:150px;
+margin-bottom:30px;
+border: 10px solid yellow;
+}
+body{
+font-family: 'Roboto' , sans-serif;
+background-color:white;
+}
+#Bulb{
+  margin-top:-500px
+}
